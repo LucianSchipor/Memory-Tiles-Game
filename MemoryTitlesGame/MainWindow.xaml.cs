@@ -28,7 +28,7 @@ namespace MemoryTitlesGame
             selectedUser = userview.SelectedUser;
             buttonContent = new List<string>();
             ShuffleButtons();
-;
+            MessageBox.Show("Constructor apelat");
 
         }
 
